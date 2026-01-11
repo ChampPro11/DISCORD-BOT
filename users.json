@@ -1,9 +1,9 @@
 {
   "1318286964218400852": {
     "name": "TANMAY",
-    "elo": 1212,
+    "elo": 1195,
     "wins": 2,
-    "losses": 1,
+    "losses": 2,
     "cards": [
       "Dragon",
       "Phoenix",
@@ -15,8 +15,8 @@
   },
   "1458557601699860607": {
     "name": "Tryon",
-    "elo": 1188,
-    "wins": 1,
+    "elo": 1205,
+    "wins": 2,
     "losses": 2,
     "cards": [
       "Elf",
