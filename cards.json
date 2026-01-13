@@ -1,0 +1,16 @@
+{
+  "1318286964218400852": {
+    "name": "Tanmay",
+    "cards": [
+      { "name": "Dragon", "attack": 12, "defense": 8, "element": "fire", "rarity": "legendary" },
+      { "name": "Knight", "attack": 7, "defense": 7, "element": "steel", "rarity": "uncommon" }
+    ]
+  },
+  "1458557601699860607": {
+    "name": "Tryon",
+    "cards": [
+      { "name": "Goblin", "attack": 4, "defense": 3, "element": "earth", "rarity": "common" },
+      { "name": "Phoenix", "attack": 10, "defense": 5, "element": "fire", "rarity": "rare" }
+    ]
+  }
+}
