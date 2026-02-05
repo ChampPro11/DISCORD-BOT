@@ -1,16 +1,20 @@
 [
   {
-    "userId": "1458557601699860607",
-    "name": "Tryon",
-    "elo": 1205,
-    "wins": 2,
-    "losses": 2
+    "rank": 1,
+    "name": "TANMAY",
+    "wins": 1,
+    "losses": 0,
+    "draws": 0,
+    "elo": 1025,
+    "cards": []
   },
   {
-    "userId": "1318286964218400852",
-    "name": "TANMAY",
-    "elo": 1195,
-    "wins": 2,
-    "losses": 2
+    "rank": 2,
+    "name": "Tryon",
+    "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "elo": 975,
+    "cards": []
   }
 ]
